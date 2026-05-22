@@ -1,2 +1,2 @@
-# 14_An-lisis_soluci-n_problemas_aplicando_algoritmos
+# 14_Analisis_solucion_problemas_aplicando_algoritmos
 Este repositorio esta creado para el análisis, solución de problemas aplicando algoritmos 
